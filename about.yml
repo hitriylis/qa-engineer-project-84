@@ -1,0 +1,17 @@
+---
+name: Andrei Lugovov
+job: QA Engineer
+level: junior
+email: avlugovov@hexlet.io
+description: |
+  В октябре 2023 года закончил обучение по профессии "Frontend Developer" на платформе Hexlet.io. 
+
+  Также продолжаю самостоятельное обучение по другим курсам.
+
+  С октября 2022 года проживаю в Ереване.
+skills:
+  - JS, HTML, CSS, SQL
+  - React, Redux, Bootstrap
+  - Функциональное тестирование
+  - Написание багрепортов
+  - Английский язык B1
