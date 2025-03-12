@@ -57,3 +57,7 @@ The website testing is carried out in several stages:
   ![regress report](assets/demo/regress-report.jpg "regress report")
 
 ---
+
+### Click [here](https://hexlet-products-store.vercel.app/) to view the first version of online store.
+
+### Click [here](https://products-store-git-v2bugfixes-hexlet-components.vercel.app/) to view the second version of online store.
